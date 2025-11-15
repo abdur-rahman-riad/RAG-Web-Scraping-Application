@@ -6,8 +6,7 @@ Explore The **Web Scraping RAG Assistant**:
 👉 **RAG Assistant:** [View]([https://langchain-genai-q-a.streamlit.app/](https://rag-web-scraping.streamlit.app/))
 
 ## Project Description
-** The Web Scraping RAG Assistant is an end-to-end Retrieval-Augmented Generation (RAG) application built with Streamlit, LangChain, ChromaDB, HuggingFace Embeddings, and Google Gemini 2.5 Flash.
-It allows users to enter any website URL, automatically scrape the content, convert it into searchable vector embeddings, and then ask natural language questions about that website. **
+**The Web Scraping RAG Assistant is an end-to-end Retrieval-Augmented Generation (RAG) application built with Streamlit, LangChain, ChromaDB, HuggingFace Embeddings, and Google Gemini 2.5 Flash. It allows users to enter any website URL, automatically scrape the content, convert it into searchable vector embeddings, and then ask natural language questions about that website.**
 
 ---
 
