@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-core
+langchain-text-splitters
+sentence-transformers
+chromadb
