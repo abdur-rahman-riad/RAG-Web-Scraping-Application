@@ -1,9 +1,10 @@
 streamlit
 langchain
 langchain-community
-langchain-chroma
-langchain-google-genai
 langchain-core
+langchain-chroma
 langchain-text-splitters
-sentence-transformers
+langchain-google-genai
 chromadb
+sentence-transformers
+beautifulsoup4
